@@ -3,7 +3,7 @@ function StatusMessage({ status }) {
     return <p className="status-message loading">Loading your data...</p>;
   }
   if (status === 'error') {
-    return <p className="status-message error">Something went wrong. Please try again.</p>;
+    return <p className="status-message error">Something went awry. Please try again.</p>;
   }
   if (status === 'empty') {
     return <p className="status-message empty">No results found. Try adjusting your search.</p>;
