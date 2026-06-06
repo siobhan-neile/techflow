@@ -21,7 +21,7 @@ Consistent terminology across the product. Use these terms:
 | Project | Workspace, board, space |
 | Task | To-do, item, ticket |
 | Team member | User, collaborator, member |
-| Sign in | Log in, login |
+| Log in | Login, Sign in |
 | Sign out | Log out, logout |
 
 ## Formatting
